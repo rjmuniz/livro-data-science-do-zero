@@ -1,1 +1,5 @@
-# livro-data-science-do-zero
+# Data Science do Zero
+## exercícios do livro
+
+
+
